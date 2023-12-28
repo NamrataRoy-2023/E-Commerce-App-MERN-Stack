@@ -166,7 +166,7 @@ function NavBar({children}) {
                         >
                             {/* <span className="absolute -inset-1.5" />*/}
                             <ShoppingCartIcon className="h-6 w-6" aria-hidden="true" />
-                        
+
                         </button>
                         </Link>
                         <span className="inline-flex items-center rounded-md bg-red-50 mb-7 -ml-2 px-2 py-1 text-xs font-medium text-red-700 ring-1 ring-inset ring-red-600/10">
